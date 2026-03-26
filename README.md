@@ -7,11 +7,6 @@
 
 ---
 
-### 📫 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/maks-wojtkowski/) | [Instagram](https://www.instagram.com/maks_wojtkowski/)
-
----
-
 ### 💻 Tech Stack & Tools:
 
 **Languages & Databases:**
@@ -33,3 +28,8 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+---
+
+### 📫 Let's connect:
+[LinkedIn](https://www.linkedin.com/in/maks-wojtkowski/) | [Instagram](https://www.instagram.com/maks_wojtkowski/)
