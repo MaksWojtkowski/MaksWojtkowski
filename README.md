@@ -1,6 +1,6 @@
 ## Hi there, I'm Maks! 👋
 
-### 🎓 CS Student | 📍 Wrocław (Lower Silesia)
+### 🎓 CS Student @ Collegium Witelona | 📍 Wrocław (Lower Silesia)
 ### 🐍 Python & Automation Enthusiast
 
 > "I tell computers what to do so I don't have to." 💡
