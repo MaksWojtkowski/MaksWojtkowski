@@ -38,6 +38,6 @@
 
 ### 📊 My GitHub Stats:
 
-[![Maks's GitHub stats](https://github-readme-stats.vercelapp/api?username=MaksWojtkowski&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Maks's GitHub stats](https://github-readme-stats.vercelapp/api?username=MaksWojtkowski)
 
-[![Top Langs](https://github-readme-stats.vercelapp/api/top-langs/?username=MaksWojtkowski&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercelapp/api/top-langs/?username=MaksWojtkowski)
