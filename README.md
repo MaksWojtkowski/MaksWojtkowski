@@ -38,7 +38,6 @@
 
 ### 📊 My GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksWojtkowski&show_icons=true&theme=tokyonight&count_private=true" alt="Maks's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksWojtkowski&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
-</p>
+[![Maks's GitHub stats](https://github-readme-stats.vercelapp/api?username=MaksWojtkowski&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercelapp/api/top-langs/?username=MaksWojtkowski&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
