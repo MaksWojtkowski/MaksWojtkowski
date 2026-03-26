@@ -1,4 +1,4 @@
-### 🎓 CS Student @ Collegium Witelona | 📍 Wrocław (Lower Silesia)
+### 🎓 CS Student @ Collegium Witelona | 📍 Wrocław / Legnica (Lower Silesia)
 ### 🐍 Python & Automation Enthusiast
 
 > "I tell computers what to do so I don't have to." 💡
