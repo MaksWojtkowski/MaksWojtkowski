@@ -33,3 +33,12 @@
 
 ### 📫 Let's connect:
 [LinkedIn](https://www.linkedin.com/in/maks-wojtkowski/) | [Instagram](https://www.instagram.com/maks_wojtkowski/)
+
+---
+
+### 📊 My GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaksWojtkowski&show_icons=true&theme=tokyonight&count_private=true" alt="Maks's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksWojtkowski&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+</p>
