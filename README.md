@@ -1,5 +1,3 @@
-## Hi there, I'm Maks! 👋
-
 ### 🎓 CS Student @ Collegium Witelona | 📍 Wrocław (Lower Silesia)
 ### 🐍 Python & Automation Enthusiast
 
@@ -31,13 +29,12 @@
 
 ---
 
-### 📫 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/maks-wojtkowski/) | [Instagram](https://www.instagram.com/maks_wojtkowski/)
+### 📊 My GitHub Stats:
+![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksWojtkowski&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksWojtkowski&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
-### 📊 My GitHub Stats:
-
-[![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksWojtkowski&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksWojtkowski&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Let's connect:
+[LinkedIn](https://www.linkedin.com/in/maks-wojtkowski/) | [Instagram](https://www.instagram.com/maks_wojtkowski/)
