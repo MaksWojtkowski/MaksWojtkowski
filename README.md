@@ -29,12 +29,5 @@
 
 ---
 
-### 📊 My GitHub Stats:
-![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksWojtkowski&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksWojtkowski&theme=tokyonight&layout=compact&hide_border=true)
-
----
-
 ### 📫 Let's connect:
 [LinkedIn](https://www.linkedin.com/in/maks-wojtkowski/) | [Instagram](https://www.instagram.com/maks_wojtkowski/)
